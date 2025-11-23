@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project demonstrates the implementation of a **local database system in Flutter** using SQLite (`sqflite_common_ffi`) and `path_provider`.  
+This project demonstrates the implementation of a **local database system in Flutter** using SQLite (`sqflite`) and `path_provider`.  
 It is designed as a learning resource for students or developers to understand **CRUD operations**, local data persistence, and Flutter UI integration.
 
 Key learning objectives:
