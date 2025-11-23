@@ -9,7 +9,6 @@
       "dependencies": [
         "cupertino_icons",
         "flutter",
-        "path",
         "path_provider",
         "sqflite"
       ],
@@ -64,11 +63,6 @@
         "path_provider_platform_interface",
         "path_provider_windows"
       ]
-    },
-    {
-      "name": "path",
-      "version": "1.9.1",
-      "dependencies": []
     },
     {
       "name": "sqflite",
@@ -230,6 +224,11 @@
         "clock",
         "collection"
       ]
+    },
+    {
+      "name": "path",
+      "version": "1.9.1",
+      "dependencies": []
     },
     {
       "name": "matcher",
