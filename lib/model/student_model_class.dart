@@ -10,7 +10,7 @@ class StudentModelClass {
     required this.mobileNo,
     required this.emailId,
   });
-
+ 
   Map<String, dynamic> toMap() {
     return {
       'rollNo': rollNo,

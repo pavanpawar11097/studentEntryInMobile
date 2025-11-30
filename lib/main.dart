@@ -1,5 +1,5 @@
 import 'package:studententrymobileapp/database/student_databse.dart';
-import 'package:studententrymobileapp/screen_or_ui_pages/MyApp.dart';
+import 'package:studententrymobileapp/screen_or_ui_pages/my_app.dart';
 import 'package:flutter/material.dart';
 
 final db = StudentDatabase.instance;

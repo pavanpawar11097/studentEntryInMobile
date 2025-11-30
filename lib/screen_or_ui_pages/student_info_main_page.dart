@@ -43,14 +43,12 @@ class _StudentInfoMainPageState extends State<StudentInfoMainPage> {
   final TextEditingController emailController = TextEditingController();
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     readDataFromDatabse();
   }
 
   @override
   void dispose() {
-    // TODO: implement dispose
     super.dispose();
     rollNoController.dispose();
     nameController.dispose();
